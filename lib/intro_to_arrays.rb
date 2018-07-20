@@ -22,4 +22,8 @@ def first_element_with_array_methods
   
 end 
 
-def 
+def last_element_with_array_methods
+  
+end 
+
+
